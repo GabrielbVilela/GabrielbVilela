@@ -1,6 +1,8 @@
-<h1><img width=5% src="https://github.com/user-attachments/assets/ef7ed3af-f24b-445f-8d03-6069f136decf"/> Gabriel Vilela</h1>
 
-### Hi! I'm a fullstack developer and a software engineering enthusiast.
+<h1><img width=5% src="https://github.com/user-attachments/assets/ef7ed3af-f24b-445f-8d03-6069f136decf"/> Gabriel Vilela</h1>
+<h3> Hi! I'm a fullstack developer and a software engineering enthusiast.</h3>
+<img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbvilela&theme=monokai&show_icons=true&hide_border=false&layout=compact">
+
 <pre>
 com.github.GabrielVilela
 │
